@@ -1,0 +1,88 @@
+Finding Scrip's Delivery%
+KABRAEXTRU - 69.21
+GENUSPOWER - 75.58
+MANGCHEFER - 71.00
+MBLINFRA - 87.38
+OILCOUNTUB - 76.11
+KIRLOSBROS - 77.88
+PENIND - 68.29
+PIONEEREMB - 70.66
+HINDCOMPOS - 83.52
+ASAL - 68.17
+BLS - 74.16
+SANCO - 98.67
+INTENTECH - 65.07
+FMNL - 72.47
+TNPL - 70.45
+HSIL - 71.01
+LAKSHVILAS - 66.56
+THIRUSUGAR - 86.97
+ALLSEC - 71.69
+PANAMAPET - 75.67
+SADBHIN - 86.73
+BANSWRAS - 71.78
+INDTERRAIN - 79.47
+JAGRAN - 87.31
+ASTRAL - 72.06
+TATAMTRDVR - 70.26
+MORARJEE - 75.60
+MANAKSIA - 89.84
+KCP - 65.79
+UNIPLY - 79.77
+SANGHVIMOV - 86.11
+MENONBE - 87.47
+TMRVL - 66.72
+ORIENTCEM - 89.86
+FDC - 73.64
+KANSAINER - 79.01
+RALLIS - 67.51
+WELENT - 77.58
+KNRCON - 82.68
+KARURVYSYA - 77.75
+GALLANTT - 84.93
+SHIRPUR-G - 66.63
+TERASOFT - 73.37
+ASAHIINDIA - 71.17
+POWERGRID - 69.72
+SPECIALITY - 75.00
+HMVL - 82.31
+MFSL - 71.68
+CROMPTON - 67.67
+EIHOTEL - 96.80
+LGBBROSLTD - 89.83
+20MICRONS - 67.70
+SIMBHALS - 65.14
+GOLDIAM - 71.42
+GOKEX - 76.14
+SPAL - 65.17
+MPHASIS - 73.52
+SJVN - 66.49
+HGS - 70.52
+ELGIEQUIP - 66.44
+SHANTIGEAR - 79.09
+GRUH - 73.38
+RADIOCITY - 70.88
+DEN - 68.61
+VSSL - 65.97
+ISFT - 78.19
+SHK - 69.10
+MAHLIFE - 92.49
+PASSED: checkDelivery
+
+===============================================
+    Default test
+    Tests run: 1, Failures: 0, Skips: 0
+===============================================
+
+
+===============================================
+Default suite
+Total tests run: 1, Failures: 0, Skips: 0
+===============================================
+
+[TestNG] Time taken by org.testng.reporters.EmailableReporter2@771158fb: 16 ms
+[TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@1d269ed7: 47 ms
+[TestNG] Time taken by org.testng.reporters.jq.Main@d4602a: 62 ms
+[TestNG] Time taken by org.testng.reporters.XMLReporter@64a896b0: 0 ms
+[TestNG] Time taken by [FailedReporter passed=0 failed=0 skipped=0]: 0 ms
+[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1adb7478: 0 ms

@@ -1,0 +1,24 @@
+Finding Scrip's Delivery%
+Scrips1_Size=69
+Scrips2_Size=47
+Common Scrips Found : 8
+[MANAKSIA, MENONBE, UNIPLY, INDTERRAIN, PANAMAPET, GENUSPOWER, ALLSEC, ELGIEQUIP]
+PASSED: compareScrips
+
+===============================================
+    Default test
+    Tests run: 1, Failures: 0, Skips: 0
+===============================================
+
+
+===============================================
+Default suite
+Total tests run: 1, Failures: 0, Skips: 0
+===============================================
+
+[TestNG] Time taken by org.testng.reporters.EmailableReporter2@5a85c92: 0 ms
+[TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@42f33b5d: 47 ms
+[TestNG] Time taken by org.testng.reporters.jq.Main@c1bd0be: 47 ms
+[TestNG] Time taken by org.testng.reporters.XMLReporter@4b3a45f1: 16 ms
+[TestNG] Time taken by [FailedReporter passed=0 failed=0 skipped=0]: 0 ms
+[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@20a14b55: 0 ms

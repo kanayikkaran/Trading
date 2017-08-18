@@ -1,0 +1,19 @@
+Finding Scrip's Delivery%
+BHAV_27JUN2017_Size=164
+BHAV_23JUN2017_Size=117
+Common Scrips Found : 23
+[KARMAENG, TOKYOPLAST, SEAMECLTD, IMFA, SHILPI, DUCON, WOCKPHARMA, VIMTALABS, HSCL, HEG, CIGNITITEC, RAIN, RCOM, SPECIALITY, ASIANTILES, HITECHCORP, AARTIDRUGS, RELCAPITAL, DHANUKA, IBREALEST, IPCALAB, JUBLFOOD, ARMANFIN]
+PASSED: checkDelivery
+PASSED: compareScrips
+
+===============================================
+    Default test
+    Tests run: 2, Failures: 0, Skips: 0
+===============================================
+
+
+===============================================
+Default suite
+Total tests run: 2, Failures: 0, Skips: 0
+===============================================
+

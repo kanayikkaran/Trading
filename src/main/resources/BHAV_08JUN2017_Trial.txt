@@ -1,0 +1,29 @@
+Finding Scrip's Delivery%
+SREEL - 51.58
+SHIVAMAUTO - 24.61
+ORBTEXP - 39.72
+BEPL - 29.30
+STCINDIA - 11.53
+SUPREMEINF - 45.84
+MMTC - 10.30
+SHANKARA - 15.71
+IITL - 59.55
+PASSED: checkDelivery
+
+===============================================
+    Default test
+    Tests run: 1, Failures: 0, Skips: 0
+===============================================
+
+
+===============================================
+Default suite
+Total tests run: 1, Failures: 0, Skips: 0
+===============================================
+
+[TestNG] Time taken by org.testng.reporters.EmailableReporter2@5ce33a58: 0 ms
+[TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@25748410: 94 ms
+[TestNG] Time taken by org.testng.reporters.jq.Main@51e8e6e6: 62 ms
+[TestNG] Time taken by org.testng.reporters.XMLReporter@2dbf4cbd: 0 ms
+[TestNG] Time taken by [FailedReporter passed=0 failed=0 skipped=0]: 0 ms
+[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7e3060d8: 16 ms

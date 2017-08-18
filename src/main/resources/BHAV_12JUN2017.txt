@@ -1,0 +1,25 @@
+Finding Scrip's Delivery%
+Scrips1_Size=221
+Scrips2_Size=47
+Common Scrips Found : 9
+[ELGIEQUIP, CARBORUNIV, ALLSEC, RUCHIRA, VINYLINDIA, NH, ALLCARGO, SUPRAJIT, PANAMAPET]
+PASSED: checkDelivery
+PASSED: compareScrips
+
+===============================================
+    Default test
+    Tests run: 2, Failures: 0, Skips: 0
+===============================================
+
+
+===============================================
+Default suite
+Total tests run: 2, Failures: 0, Skips: 0
+===============================================
+
+[TestNG] Time taken by org.testng.reporters.EmailableReporter2@3703bf3c: 36 ms
+[TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@3f36b447: 112 ms
+[TestNG] Time taken by org.testng.reporters.jq.Main@6079cf5: 56 ms
+[TestNG] Time taken by org.testng.reporters.XMLReporter@5226e402: 4 ms
+[TestNG] Time taken by [FailedReporter passed=0 failed=0 skipped=0]: 0 ms
+[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@783ec989: 16 ms

@@ -1,0 +1,25 @@
+Finding Scrip's Delivery%
+Scrips1_Size=450
+Scrips2_Size=221
+Common Scrips Found : 71
+[PNBHOUSING, PFC, RECLTD, MOTILALOFS, IRFC, IRFC, REPCOHOME, VBL, ARROWGREEN, PHOENIXLTD, ARCOTECH, HSIL, DHUNINV, MOIL, CARBORUNIV, DABUR, TALWALKARS, UNICHEMLAB, V2RETAIL, APTECHT, SALZERELEC, ASHOKA, BUTTERFLY, DELTACORP, KABRAEXTRU, GMDCLTD, EMAMIINFRA, SHANTIGEAR, EMKAY, MUNJALAU, SASTASUNDR, MAHESHWARI, VSCL, KELLTONTEC, BROOKS, DAMODARIND, CIMMCO, PATELENG, HSCL, AGRITECH, INFOBEAN, THIRUSUGAR, MORARJEE, ZENTEC, NETWORK18, MEGH, ZEEMEDIA, TV18BRDCST, ZICOM, ALANKIT, LOTUSEYE, HILTON, ANSALAPI, GTNTEX, PBAINFRA, GTNIND, GMRINFRA, NILAINFRA, SHREERAMA, JINDCOT, INDOSOLAR, SAMBHAAV, OPTOCIRCUI, MAGNUM, USHERAGRO, PARACABLES, BLBLIMITED, GAMMNINFRA, MUKANDLTD, EUROMULTI, SRSLTD]
+PASSED: checkDelivery
+PASSED: compareScrips
+
+===============================================
+    Default test
+    Tests run: 2, Failures: 0, Skips: 0
+===============================================
+
+
+===============================================
+Default suite
+Total tests run: 2, Failures: 0, Skips: 0
+===============================================
+
+[TestNG] Time taken by org.testng.reporters.EmailableReporter2@47b67fcb: 24 ms
+[TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@7187bac9: 113 ms
+[TestNG] Time taken by org.testng.reporters.jq.Main@16c587de: 79 ms
+[TestNG] Time taken by org.testng.reporters.XMLReporter@3a175162: 24 ms
+[TestNG] Time taken by [FailedReporter passed=0 failed=0 skipped=0]: 0 ms
+[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2042ccce: 4 ms

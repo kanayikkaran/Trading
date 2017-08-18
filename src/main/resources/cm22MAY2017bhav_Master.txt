@@ -1,0 +1,20 @@
+Finding Scrip's Delivery%
+PASSED: updateDiff
+
+===============================================
+    Default test
+    Tests run: 1, Failures: 0, Skips: 0
+===============================================
+
+
+===============================================
+Default suite
+Total tests run: 1, Failures: 0, Skips: 0
+===============================================
+
+[TestNG] Time taken by org.testng.reporters.EmailableReporter2@502f1f4c: 15 ms
+[TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@37b70343: 31 ms
+[TestNG] Time taken by org.testng.reporters.jq.Main@47605f2f: 47 ms
+[TestNG] Time taken by org.testng.reporters.XMLReporter@6111ba37: 32 ms
+[TestNG] Time taken by [FailedReporter passed=0 failed=0 skipped=0]: 15 ms
+[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5b11a194: 0 ms

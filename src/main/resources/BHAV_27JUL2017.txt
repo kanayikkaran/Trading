@@ -1,0 +1,15 @@
+Finding Scrip's Delivery%
+Ended at 243
+PASSED: checkDelivery
+
+===============================================
+    Default test
+    Tests run: 1, Failures: 0, Skips: 0
+===============================================
+
+
+===============================================
+Default suite
+Total tests run: 1, Failures: 0, Skips: 0
+===============================================
+
